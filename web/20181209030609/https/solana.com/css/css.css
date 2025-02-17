@@ -1,0 +1,45 @@
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Exo 2 Light'), local('Exo2-Light'), url(../fonts/7cHrv4okm5zmbt6DCfs7wHo.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Exo 2';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Exo 2'), local('Exo2-Regular'), url(../fonts/7cHmv4okm5zmbtYoK-s.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Montserrat Regular'), local('Montserrat-Regular'), url(https://web.archive.org/web/20190214010053im_/https://fonts.gstatic.com/s/montserrat/v12/JTUSjIg1_i6t8kCHKm459Wlhzg.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Rubik';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Rubik'), local('Rubik-Regular'), url(https://web.archive.org/web/20190214010053im_/https://fonts.gstatic.com/s/rubik/v7/iJWKBXyIfDnIV7nBrXk.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 01:00:53 Feb 14, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:02:44 Feb 16, 2025.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.684
+  exclusion.robots: 0.03
+  exclusion.robots.policy: 0.017
+  esindex: 0.012
+  cdx.remote: 8.773
+  LoadShardBlock: 434.562 (3)
+  PetaboxLoader3.datanode: 440.427 (4)
+  load_resource: 124.18
+  PetaboxLoader3.resolve: 71.881
+*/
